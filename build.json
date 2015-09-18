@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Diatone/ET-200-V1.0-Carbon-Fiber-Quadcopter",
+    "esc": "DYS/Mini-30A",
+    "motor": "Cobra/CM-2204-1960kv",
+    "fc": "AbuseMark/AfroMini-32",
+    "prop": [
+      "Gemfan/6x4.5-CF-MR"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/3S-1300mAh-30C"
+    ],
+    "osd": "",
+    "receiver": "",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
